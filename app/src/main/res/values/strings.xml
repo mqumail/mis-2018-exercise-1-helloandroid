@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">helloandroid</string>
-    <string name="button_xyz">hit me</string>
+    <string name="button_xyz">Click me!</string>
 </resources>
